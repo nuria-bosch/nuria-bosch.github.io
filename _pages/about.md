@@ -19,13 +19,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm Núria Bosch [ˈnuɾiə βɔsk], an incoming PhD student at the University of Cambridge (St John's College). I specialise in syntax and language acquisition.
+I'm Núria Bosch [ˈnuɾiə βɔsk], an **incoming PhD student** at the University of Cambridge (St John's College). I specialise in syntax and language acquisition.
 
 I'm supervised by Bert Vaux and Theresa Biberauer and I am supported by an OOC AHRC DTP - St John's studentship. I am also an Honorary Cambridge Trust Scholar.
 
-Before my PhD, I completed a BA and MPhil in Linguistics also at the University of Cambridge (St John's College), supervised by Theresa Biberauer.
+Before my PhD, I completed a BA and MPhil in Linguistics also at the University of Cambridge (St John's College), supervised by Theresa Biberauer. 
 
-I'm interested in **syntax** (theoretical, comparative, diachronic), **language acquisition** and **biolinguistics**. In my work, I adopt a so-called **neo-emergentist** approach to language acquisition and syntax (assuming a radically impoverished Universal Grammar).
+I'm interested in **syntax** (theoretical, comparative, diachronic), **language acquisition** and **biolinguistics**. In my work, I adopt a so-called **neo-emergentist** approach to language acquisition and syntax, which assumes a radically impoverished Universal Grammar.
 
 Some of the projects I've worked on and/or I'm interested in include:
 
