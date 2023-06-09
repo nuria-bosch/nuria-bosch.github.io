@@ -34,4 +34,4 @@ Some of the projects I've worked on and/or I'm interested in include:
 - Foundations of functional/extended projections (theoretically and developmentally).
 - Null subjects in Dinka (Nilotic).
 
-When not doing linguistics, I can be found reading, listening to music, coding or doing graphic design, travelling and following Barcelona's football games (or, more rarely, playing football). I'm originally from a Ripoll, a small town in the north of Catalonia, next to the Pyrenees and near the French border.
+When not doing linguistics, I can be found reading, listening to music, coding or doing graphic design, travelling and following Barcelona's football games (or, more rarely, playing football). I'm originally from Ripoll, a small town in the north of Catalonia, next to the Pyrenees and near the French border.
