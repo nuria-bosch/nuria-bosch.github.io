@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nbosch.github.io//sitemap.xml
+Sitemap: https://nuria-bosch.github.io//sitemap.xml
