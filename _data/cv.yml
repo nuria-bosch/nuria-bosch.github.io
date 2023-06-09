@@ -22,14 +22,22 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Open-Oxford-Cambridge AHRC DTP - St John's College Studentship
+        - Cambridge International Scholarship (Cambridge Trust; Honorary upon receipt of OOC AHRC DTP)
+    - year: 2022
       items: 
-        - Max Planck Medal
-
+        - Hayes Scholarship (St John's College)
+        - Cambridge Opportunity Master's Studentship (Cambridge Trust)
+        - Prizes for undergraduate marks":" Sidney Allen Prize (Faculty of Modern and Medieval Languages), Hughes Year Prize, McAulay Scholarship, Wright Prize (St John's College)
+    - year: 2021
+      items: 
+        - Prizes for undergraduate marks":" Quass Year Prize, McAulay Scholarship, Wright Prize (St John's College)
+    - year: 2020
+      items: 
+        - Prizes for undergraduate marks":" McAulay Scholarship, College Prize (St John's College)
+       
 - title: Academic Interests
   type: nested_list
   contents:
