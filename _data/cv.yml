@@ -18,6 +18,38 @@
       year: 2019 - 2022
       description:
         - First Class with Distinction
+ 
+  - title: Additional Training
+  type: time_table
+  contents:
+    - title: Crete Summer School in Linguistics
+      institution: University of Crete
+      year: 2023
+      description:
+        - Description 1.
+        - Description 2.
+    - title: Eastern Generative Grammar (EGG)
+      institution: Masaryk University Brno
+      year: 2022
+      description:
+        - Description 1.
+        - Description 2.
+ 
+ - title: Research Experience
+  type: time_table
+  contents:
+    - title: Research Intern
+      institution: Theresa Biberauer
+      year: Winter 2021 - 2022
+      description:
+        - Description 1.
+        - Description 2.
+    - title: Research Intern
+      institution: Theresa Biberauer
+      year: Summer 2021
+      description:
+        - Description 1.
+        - Description 2.
 
 - title: Honors and Awards
   type: time_table
@@ -38,20 +70,4 @@
     - year: 2020
       items: 
         - McAulay Scholarship, College Prize (St John's College)
-       
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
