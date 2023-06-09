@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: about 🙋‍♀️
 permalink: /
 subtitle: <a href='#'>University of Cambridge</a>. nb611 [at] cam.ac.uk
 
