@@ -2,7 +2,7 @@
 layout: about
 title: about 🙋‍♀️
 permalink: /
-subtitle: <a href='#'>University of Cambridge</a>. nb611 [at] cam.ac.uk
+subtitle: <a href='https://www.mmll.cam.ac.uk/dtal'>University of Cambridge</a>. nb611 [at] cam.ac.uk
 
 profile:
   align: right
@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 I'm Núria Bosch [ˈnuɾiə βɔsk], an **incoming PhD student** at the University of Cambridge (St John's College). I specialise in syntax and language acquisition.
 
-I'm supervised by Bert Vaux and Theresa Biberauer and I am supported by an OOC AHRC DTP - St John's studentship. I am also an Honorary Cambridge Trust Scholar.
+I'm supervised by [Bert Vaux](https://www.mmll.cam.ac.uk/bv230) and [Theresa Biberauer](https://www.mmll.cam.ac.uk/dr-theresa-biberauer) and I am supported by an OOC AHRC DTP - St John's studentship. I am also an Honorary Cambridge Trust Scholar.
 
 Before my PhD, I completed a BA and MPhil in Linguistics also at the University of Cambridge (St John's College), supervised by Theresa Biberauer. 
 
