@@ -18,38 +18,6 @@
       year: 2019 - 2022
       description:
         - First Class with Distinction
- 
-- title: Additional Training
-type: time_table
-contents:
-  - title: Crete Summer School in Linguistics
-    institution: University of Crete
-    year: 2023
-    description:
-      - Description 1.
-      - Description 2.
-  - title: Eastern Generative Grammar (EGG)
-    institution: Masaryk University Brno
-    year: 2022
-    description:
-      - Description 1.
-      - Description 2.
- 
-- title: Research Experience
-type: time_table
-contents:
-  - title: Research Intern
-    institution: Theresa Biberauer
-    year: 2021 - 2022
-    description:
-      - Description 1.
-      - Description 2.
-  - title: Research Intern
-    institution: Theresa Biberauer
-    year: 2021
-    description:
-      - Description 1.
-      - Description 2.
 
 - title: Honors and Awards
   type: time_table
