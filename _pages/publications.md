@@ -11,7 +11,7 @@ nav_order: 1
 <div class="publications">
 
 <h2 class="year">Journal articles</h2><br><br>
-{% bibliography -f papers -q @*[year={{y}}]* %}
+{% bibliography -f papers @*[year={{y}}]* %}
 
 <h2 class="year">Manuscripts</h2><br><br>
 
