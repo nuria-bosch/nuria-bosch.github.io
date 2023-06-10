@@ -10,16 +10,16 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
-<a id="journal"><h3 style="margin-top: 3.3rem; margin-bottom: 0.3rem;"><b>Journal articles</b></h3></a>
+<a id="journal"><h3 style="margin-top: 3.3rem; margin-bottom: 0.3rem;">Journal articles</h3></a>
 <hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;">
 {% bibliography -f papers %}
 
-<a id="manuscripts"><h3 style="margin-top: 3rem; margin-bottom: 0.3rem;"><b>Manuscripts</b></h3></a>
+<a id="manuscripts"><h3 style="margin-top: 3rem; margin-bottom: 0.3rem;">Manuscripts</h3></a>
 <hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;">
 
 <!-- <h2 class="year">Proceedings articles</h2><br><br> -->
 
-<a id="theses"><h3 style="margin-top: 3rem; margin-bottom: 0.3rem;"><b>Theses</b></h3></a>
+<a id="theses"><h3 style="margin-top: 3rem; margin-bottom: 0.3rem;">Theses</h3></a>
 <hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;">
   
 {% bibliography -f theses %}
