@@ -19,6 +19,22 @@
       description:
         - First Class with Distinction
 
+- title: Additional Training
+  type: time_table
+  contents:
+    - title: 5th Crete Summer School in Linguistics
+      institution: University of Crete
+      year: 2023
+    - title: Eastern Generative Grammar (EGG)
+      institution: Masaryk University Brno
+      year: 2022
+    - title: Eastern Generative Grammar (EGG)
+      institution: Online
+      year: 2021
+    - title: Escola d'Estiu de Lingüística Catalana (EDELC)
+      institution: Online
+      year: 2021
+
 - title: Research Experience
   type: time_table
   contents:
@@ -26,14 +42,14 @@
       institution: Theresa Biberauer
       year: 2021 - 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Winter 2021-2022.
+        - Project on Acquisition of ergativity, polysynthesis, noun classes and under-studied languages from a Maximise Minimal Means perspective.
     - title: Research Intern
-      institution: Research Intern
+      institution: Theresa Biberauer
       year: 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Summer 2021.
+        - Project on Maximise Minimal Means in language and human cognition.
 
 - title: Honors and Awards
   type: time_table
