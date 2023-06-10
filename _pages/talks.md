@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /presentations/
-title: presentations🗣
+title: presentations 🗣
 description: Contact me for any handouts or slides!
 years:
 nav: true
