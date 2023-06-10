@@ -12,7 +12,7 @@ nav_order: 2
 
 <a id="invited"><h3 style="margin-top: 3.3rem; margin-bottom: 0.3rem;">Invited talks</h3></a>
 <hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;">
-{% bibliography -f papers %}
+{% bibliography -f invitedtalks %}
 
 <a id="peerreviewed"><h3 style="margin-top: 3rem; margin-bottom: 0.3rem;">Peer-reviewed</h3></a>
 <hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;">
