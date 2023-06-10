@@ -11,7 +11,7 @@ nav_order: 1
 <div class="publications">
 
 <h2 class="year">Journal articles</h2><br><br>
-{% bibliography -f {{ site.scholar.bibliography }} %}
+{% bibliography -f papers %}
 
 <h2 class="year">Manuscripts</h2><br><br>
 
@@ -19,6 +19,8 @@ nav_order: 1
 
 <h2 class="year">Theses</h2><br><br>
   
+{% bibliography -f theses %}
+
 </div>
 
 <div class="publications">
