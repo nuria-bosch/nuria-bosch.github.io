@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications 📝
-description:
+description: Feel free to email me to PDFs!
 years:
 nav: true
 nav_order: 1
