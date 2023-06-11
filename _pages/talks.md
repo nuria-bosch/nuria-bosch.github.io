@@ -27,7 +27,7 @@ nav_order: 2
 <a id="general"><h3 style="margin-top: 3rem; margin-bottom: 0.3rem;">General audience</h3></a>
 <hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;">
   
-{% bibliography -f theses %}
+{% bibliography -f generalaudience %}
 
 </div>
 
