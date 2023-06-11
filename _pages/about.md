@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm Núria Bosch [ˈnuɾiə βɔsk], an **incoming PhD student** at the University of Cambridge (St John's College). I specialise in syntax and language acquisition.
+Hello! I'm Núria Bosch [ˈnuɾiə βɔsk], an **incoming PhD student** at the University of Cambridge (St John's College). I specialise in syntax and language acquisition.
 
 I'm supervised by [Bert Vaux](https://www.mmll.cam.ac.uk/bv230) and [Theresa Biberauer](https://www.mmll.cam.ac.uk/dr-theresa-biberauer) and I am supported by an OOC AHRC DTP - St John's studentship. I am also an Honorary Cambridge Trust Scholar.
 
