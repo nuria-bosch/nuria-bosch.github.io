@@ -124,10 +124,10 @@
           {%- capture entrytype -%} {{entry.publisher}} {%- endcapture -%}  
         {%- elsif proceedings contains entry.type -%}
           {%- capture entrytype -%} In {{entry.booktitle}} {%- endcapture -%}
-        {%- elsif thesis contains entry.type -%}
-          {%- capture entrytype -%} {{entry.keywords}}{{ ", " }}{{entry.school}} {%- endcapture -%}
         {%- elsif entry.type == "mastersthesis" -%}
           {%- capture entrytype -%}MPhil Thesis; {{entry.school}}{%- endcapture -%}
+        {%- elsif thesis contains entry.type -%}
+          {%- capture entrytype -%} {{entry.keywords}}{{ ", " }}{{entry.school}} {%- endcapture -%}
         {%- else -%}
           {%- capture entrytype -%}{%- endcapture -%}
         {%- endif -%}
