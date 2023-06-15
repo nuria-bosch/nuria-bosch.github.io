@@ -7,9 +7,9 @@ nav: true
 nav_order: 5
 ---
 
-<h4 style="margin-top: 3.3rem; margin-bottom: 0.3rem; font-weight: bold;">Teaching</h4>
+<h4 style="margin-top: 3.3rem; margin-bottom: 1rem; font-weight: bold;">Teaching</h4>
 
-<p> To come!</p>
+To come!
 
 <h4 style="margin-top: 3.3rem; margin-bottom: 0.3rem; font-weight: bold;">Editorial experience</h4>
 
