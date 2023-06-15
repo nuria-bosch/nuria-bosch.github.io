@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-<a id="teaching"><h3 style="margin-top: 3.3rem; margin-bottom: 0.3rem; font-weight: bold;">Teaching</h3></a>
+<a id="teaching"><h4 style="margin-top: 3.3rem; margin-bottom: 0.3rem; font-weight: bold;">Teaching</h4></a>
 
 To come!
 
