@@ -1,6 +1,5 @@
----
----
-<!-- _layouts/bib.html -->
+<!-- This is layout for publications. It happens whenever the flags "talk" or "teaching" are not triggered -->
+
       <div class="row">
         <div class="col-sm-2 {% if entry.preview %}preview{% else %}abbr{% endif %}">
         {%- if entry.preview -%}
@@ -19,17 +18,27 @@
             {%- if site.data.venues[entry.abbr].color != blank -%}
               {%- assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '"' -%}
             {%- endif -%}
-            <abbr class="badge" {% if venue_style %}{{venue_style}}{% endif %}><a href="{{site.data.venues[entry.abbr].url}}">{{entry.abbr}}</a></abbr>
+            <abbr class="badge" {% if venue_style %}{{venue_style}}{% endif %}><a href="{{site.data.venues[entry.abbr].scopus}}">{{entry.abbr}}</a></abbr>
           {%- else -%}
             <abbr class="badge">{{entry.abbr}}</abbr>
           {%- endif -%}
         {%- endif -%}
         </div>
 
+       
         <!-- Entry bib key -->
         <div id="{{entry.key}}" class="col-sm-8">
-        <!-- Title -->
-        <div class="title">{{entry.title}}</div>
+       
+       
+          <!-- Title -->
+        {%- if entry.contribution %}
+            <div class="title"><i class="fas fa-hashtag" style="font-size: 0.9em;"></i> {{entry.title}}</div>
+        {%- else -%}
+            <div class="title">{{entry.title}}</div>
+        {%- endif %}
+        
+
+
         <!-- Author -->
         <div class="author">
         {% assign author_array_size = entry.author_array | size %}
@@ -59,7 +68,7 @@
 
           {%- if forloop.length > 1 -%}
             {%- if forloop.first == false -%},&nbsp;{%- endif -%}
-            {%- if forloop.last and author_array_limit == author_array_size -%}and&nbsp;{%- endif -%}
+          <!--  {%- if forloop.last and author_array_limit == author_array_size -%}and&nbsp;{%- endif -%} -->
           {%- endif -%}
           {%- if author_is_self -%}
             <em>{{author.first}} {{author.last}}</em>
@@ -110,11 +119,13 @@
         {% assign proceedings = "inproceedings,incollection" | split: ','%}
         {% assign thesis = "thesis,mastersthesis,phdthesis" | split: ','%}
         {% if entry.type == "article" -%}
-          {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
+          {%- capture entrytype -%} {{entry.journal}} {%- endcapture -%}
+        {% elsif entry.type == "book" -%}
+          {%- capture entrytype -%} {{entry.publisher}} {%- endcapture -%}  
         {%- elsif proceedings contains entry.type -%}
-          {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
+          {%- capture entrytype -%} In {{entry.booktitle}} {%- endcapture -%}
         {%- elsif thesis contains entry.type -%}
-          {%- capture entrytype -%}<em>{{entry.school}}</em> {%- endcapture -%}
+          {%- capture entrytype -%} {{entry.keywords}}{{ ", " }}{{entry.school}} {%- endcapture -%}
         {%- else -%}
           {%- capture entrytype -%}{%- endcapture -%}
         {%- endif -%}
@@ -134,18 +145,24 @@
         </div>
 
           <!-- Links/Buttons -->
-          <div class="links">
+          <div class="links" style="margin-top: 0.3rem;">
+        <!--  {%- if entry.scopus %}
+          <a href="{{ entry.scopus }}" class="btn btn-sm z-depth-0" role="button">SCOPUS</a>
+        {%- endif %}  -->
+        <!-- {%- if entry.sjr %}
+          <a href="{{ entry.sjr }}" class="btn btn-sm z-depth-0" role="button">SJR</a>
+        {%- endif %}   -->
           {%- if entry.abstract %}
             <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
           {%- endif %}
-          {%- if entry.arxiv %}
+          <!-- {%- if entry.arxiv %}
             <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
-          {%- endif %}
+          {%- endif %} -->
           {%- if entry.bibtex_show %}
             <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
           {%- endif %}
           {%- if entry.html %}
-            <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
+            <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
           {%- endif %}
           {%- if entry.pdf %}
             {% if entry.pdf contains '://' -%}
@@ -180,6 +197,23 @@
             {%- else -%}
             <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
             {%- endif %}
+          {%- endif %}
+          {%- if entry.slides_short %}
+            {% if entry.slides_short contains '://' -%}
+            <a href="{{ entry.slides_short }}" class="btn btn-sm z-depth-0" role="button">Short Slides</a>
+            {%- else -%}
+            <a href="{{ entry.slides_short | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Short Slides</a>
+            {%- endif %}
+          {%- endif %} 
+          {%- if entry.slides_long %}
+            {% if entry.slides_long contains '://' -%}
+            <a href="{{ entry.slides_long }}" class="btn btn-sm z-depth-0" role="button">Long Slides</a>
+            {%- else -%}
+            <a href="{{ entry.slides_long | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Long Slides</a>
+            {%- endif %}
+          {%- endif %}
+          {%- if entry.video %}
+            <a href="{{ entry.video }}" class="btn btn-sm z-depth-0" role="button">Video</a>
           {%- endif %}
           {%- if entry.website %}
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
