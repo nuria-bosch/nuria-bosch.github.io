@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching 👩‍🏫
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /teaching_and_service/
+title: teaching and service 👩‍🏫
+description: 
 nav: true
 nav_order: 5
 ---
