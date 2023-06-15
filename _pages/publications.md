@@ -7,7 +7,21 @@ years:
 nav: true
 nav_order: 1
 ---
+
 <!-- _pages/publications.md -->
+
+<p> 
+All my research outputs divided into 
+</p>
+
+
+<p>
+<ul>
+    <li><a href="#journal"><b>Journal articles</b></a></li>
+    <li><a href="#theses"><b>Theses</b></a></li>
+</ul>
+</p>
+
 <div class="publications">
 
 <a id="journal"><h3 style="margin-top: 3.3rem; margin-bottom: 0.3rem;">Journal articles</h3></a>
