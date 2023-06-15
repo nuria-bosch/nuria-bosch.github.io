@@ -13,10 +13,8 @@ To come!
 
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Editorial experience</h4>
 
-<pre>
-2023-       **Associate Editor (Academic)** at the _Journal of the Undergraduate Linguistics Association of Britain_ (JoULAB)
-2022-2023   **Associate Editor (Production)** at the _Journal of the Undergraduate Linguistics Association of Britain_ (JoULAB)
-</pre>
+2023- &nbsp &nbsp &nbsp &nbsp **Associate Editor (Academic)** at the _Journal of the Undergraduate Linguistics Association of Britain_ (JoULAB)
+2022-2023 &nbsp &nbsp &nbsp &nbsp **Associate Editor (Production)** at the _Journal of the Undergraduate Linguistics Association of Britain_ (JoULAB)
 
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Committee roles</h4>
 
