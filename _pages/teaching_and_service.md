@@ -7,6 +7,6 @@ nav: true
 nav_order: 5
 ---
 
-<h2> <a id = "teaching"> teaching </a> </h2>
+<h2> <a id = "teaching"> Teaching </a> </h2>
 
 To come!
