@@ -117,7 +117,7 @@
 
         <!-- Journal/Book title and date -->
         {% assign proceedings = "inproceedings,incollection" | split: ','%}
-        {% assign thesis = "thesis,mastersthesis,phdthesis" | split: ','%}
+        {% assign thesis = "thesis,phdthesis" | split: ','%}
         {% if entry.type == "article" -%}
           {%- capture entrytype -%} {{entry.journal}} {%- endcapture -%}
         {% elsif entry.type == "book" -%}
@@ -126,6 +126,8 @@
           {%- capture entrytype -%} In {{entry.booktitle}} {%- endcapture -%}
         {%- elsif thesis contains entry.type -%}
           {%- capture entrytype -%} {{entry.keywords}}{{ ", " }}{{entry.school}} {%- endcapture -%}
+        {%- elsif entry.type == "mastersthesis" -%}
+          {%- capture entrytype -%}MPhil Thesis; {{entry.school}}{%- endcapture -%}
         {%- else -%}
           {%- capture entrytype -%}{%- endcapture -%}
         {%- endif -%}
