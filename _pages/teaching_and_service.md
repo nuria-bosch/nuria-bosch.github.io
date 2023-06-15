@@ -13,11 +13,6 @@ To come!
 
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Editorial experience</h4>
 
-2023- **Associate Editor (Academic)** at the _Journal of the Undergraduate Linguistics Association of Britain_ (JoULAB)
-
-2022-2023     **Associate Editor (Production)** at the _Journal of the Undergraduate Linguistics Association of Britain_ (JoULAB)
-
-
 <style>
 td, th {
    border: none!important;
@@ -28,6 +23,10 @@ td, th {
 | 2022-2023 | **Associate Editor (Production)** at the _Journal of the Undergraduate Linguistics Association of Britain_ (JoULAB) |
 
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Committee roles</h4>
+
+| 2021- | **President** of the _St John's College Linguistics Society_ |
+| 2021-2022 | **Representative for Linguistics Part IIB** at the _Staff-Student Liaison Committee_ (SSLC; Faculty of Modern and Medieval Languages and Linguistics, Cambridge) |
+| 2020-2021 | **Institutional Representative for the University of Cambridge** at the _Undergraduate Linguistics Association of Britain_ (ULAB) |
 
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Workshops and panels</h4>
 
