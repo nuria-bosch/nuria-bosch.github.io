@@ -31,7 +31,7 @@ td, th {
 </style>
 
 | 2021- | **President** of the _St John's College Linguistics Society_ |
-| 2021-2022 | **Representative for Linguistics Part IIB** at the _Staff-Student Liaison Committee_ (SSLC; Faculty of Modern and Medieval Languages and Linguistics, Cambridge) |
+| 2021-2022 | **Representative for Linguistics Part IIB** at the _Staff-Student Liaison Committee_ (SSLC, University of Cambridge) |
 | 2020-2021 | **Institutional Representative for the University of Cambridge** at the _Undergraduate Linguistics Association of Britain_ (ULAB) |
 
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Workshops and panels</h4>
