@@ -11,6 +11,10 @@ nav_order: 5
 
 To come!
 
+<h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Reviewing</h4>
+
+- **Abstracts**. Annual Conference of the Undergraduate Linguistics Association of Britain (2023) 
+
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Editorial experience</h4>
 
 - 2023-Present. **Associate Editor (Academic)** at the _Journal of the Undergraduate Linguistics Association of Britain_ (JoULAB)
@@ -24,3 +28,10 @@ To come!
 
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Workshops and panels</h4>
 
+- Mar 2023. **Lead Organiser** for _Careers for Linguists Panel_, with St John’s Linguistics Society and Cambridge Linguistic Society
+- Feb 2022. **Lead organiser and teacher** for _LaTeX for Linguists Workshop_, with St John's Linguistics Society and CamTeX Society
+
+<h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Conferences</h4>
+
+- Sept 2021. **Student helper** for LAGB Annual Meeting 2021
+- Sept 2020 and Jan 2021. **Student helper and webmaster** for Cambridge Comparative Syntax (CamCoS) 9 Parts I and II
