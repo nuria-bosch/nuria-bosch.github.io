@@ -26,7 +26,7 @@ I'm interested in **syntax** (theoretical, comparative, diachronic), **language 
 
 Some of the projects I've worked on and/or I'm interested in include:
 
-- Acquisition of functional categories (including cartographic categories) from a neo-emergentist perspective).
+- Acquisition of functional categories (including cartographic categories) from a neo-emergentist perspective.
 - Acquisition of illocutionary complementisers in Ibero-Romance and Italian.
 - Foundations of functional/extended projections (theoretically and developmentally).
 - Null subjects in Dinka (Nilotic).
