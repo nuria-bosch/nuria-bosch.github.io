@@ -20,7 +20,7 @@ Hello! I'm Núria Bosch [ˈnuɾiə βɔsk], an **incoming PhD student** at the U
 
 I'm supervised by [Bert Vaux](https://www.mmll.cam.ac.uk/bv230) and [Theresa Biberauer](https://www.mmll.cam.ac.uk/dr-theresa-biberauer) and I am supported by an OOC AHRC DTP - St John's studentship. I am also an Honorary Cambridge Trust Scholar.
 
-Before my PhD, I completed a BA and MPhil in Linguistics also at the University of Cambridge (St John's College), supervised by Theresa Biberauer. 
+Before my PhD, I completed a BA and MPhil in Linguistics also at the University of Cambridge (St John's College), supervised by Theresa Biberauer.
 
 I'm interested in **syntax** (theoretical, comparative, diachronic), **language acquisition** and **biolinguistics**. In my work, I adopt a so-called **neo-emergentist** approach to language acquisition and syntax, which assumes a radically impoverished Universal Grammar.
 
