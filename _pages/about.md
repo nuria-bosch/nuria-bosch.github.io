@@ -6,7 +6,7 @@ subtitle: <a href='https://www.mmll.cam.ac.uk/dtal'>University of Cambridge</a>.
 
 profile:
   align: right
-  image: websitephoto.png
+  image: cretelingphoto.png
   image_circular: false # crops the image to make it circular
   address:
 
