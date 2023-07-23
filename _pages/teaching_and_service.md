@@ -28,6 +28,7 @@ To come!
 
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Workshops and panels</h4>
 
+- Aug 2023. **Speaker** at panel on JoULAB, undergraduate publishing and reviewing at the the 2023 LAGB Annual Meeting. 
 - Mar 2023. **Lead Organiser** for _Careers for Linguists Panel_, with St John’s Linguistics Society and Cambridge Linguistic Society
 - Feb 2022. **Lead organiser and teacher** for _LaTeX for Linguists Workshop_, with St John's Linguistics Society and CamTeX Society
 
