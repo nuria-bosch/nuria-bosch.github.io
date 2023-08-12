@@ -29,7 +29,8 @@ Some of the projects I've worked on and/or I'm interested in include:
 - Acquisition of functional categories (including cartographic categories) from a neo-emergentist perspective.
 - Acquisition of illocutionary complementisers in Ibero-Romance and Italian.
 - Foundations of functional/extended projections (theoretically and developmentally).
+- Feature (un)bundling and variation at the left periphery.
+- Relationship betweeen L1 (and L2) acquirers, developmental patterns and language change.
 - Expressive/evaluative reduplication in Catalan and Spanish syntax.
-- Relationship betweeen L1 (and L2) acquirers, developmental patterns and language change. 
-
+    
 When not doing linguistics, I can be found reading, listening to music, coding or doing graphic design, travelling and following Barcelona's football games (or, more rarely, playing football). I'm originally from Ripoll, a small town in the north of Catalonia, next to the Pyrenees and near the French border.
