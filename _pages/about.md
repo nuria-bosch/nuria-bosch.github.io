@@ -29,7 +29,7 @@ Some of the projects I've worked on and/or I'm interested in include:
 - Acquisition of functional categories (including cartographic categories) from a neo-emergentist perspective.
 - Acquisition of illocutionary complementisers in Ibero-Romance and Italian.
 - Foundations of functional/extended projections (theoretically and developmentally).
-- Feature (un)bundling and variation at the left periphery.
+- 'Feature (un)bundling' and variation at the left periphery.
 - Relationship betweeen L1 (and L2) acquirers, developmental patterns and language change.
 - Expressive/evaluative reduplication in Catalan and Spanish syntax.
     
