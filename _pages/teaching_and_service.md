@@ -36,3 +36,7 @@ To come!
 
 - Sept 2021. **Student helper** for LAGB Annual Meeting 2021
 - Sept 2020 and Jan 2021. **Student helper and webmaster** for Cambridge Comparative Syntax (CamCoS) 9 Parts I and II
+
+<h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Reading groups</h4>
+
+- 2023-Present. **Co-organiser** of Historical Linguistics Reading Group, with Marieke Meelen and Sarah Gordon (University of Cambridge).
