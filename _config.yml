@@ -111,6 +111,7 @@ contact_note: #
 
 google_analytics: G-E0B12ZMS6V
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
+ga4_analytics: G-E0B12ZMS6V
 
 google_site_verification:  # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
