@@ -2,7 +2,7 @@
 layout: about
 title: about 🙋‍♀️
 permalink: /
-subtitle: <b> <a href='https://www.mmll.cam.ac.uk/dtal'>University of Cambridge</a> &bull nb611 [at] cam.ac.uk &bull she/her </b>
+subtitle: <a href='https://www.mmll.cam.ac.uk/dtal'>University of Cambridge</a>; &bull; nb611 [at] cam.ac.uk; &bull; she/her
 
 profile:
   align: right
