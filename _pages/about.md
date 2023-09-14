@@ -22,7 +22,7 @@ I'm supervised by [Bert Vaux](https://www.mmll.cam.ac.uk/bv230) and [Theresa Bib
 
 Before my PhD, I completed a BA and MPhil in Linguistics also at the University of Cambridge (St John's College), supervised by Theresa Biberauer. You can find my full CV [here](https://nuria-bosch.github.io/assets/pdf/cv_September_2023.pdf).
 
-I'm interested in **syntax** (theoretical, comparative, diachronic), **language acquisition** and **biolinguistics**. In my work, I probe a so-called **neo-emergentist** approach to language acquisition and variation, which assumes a radically impoverished Universal Grammar. I also have a keen interest in interdisciplinary approaches to language.
+I'm interested in **syntax** (theoretical, comparative, diachronic), **language acquisition** and **biolinguistics**. In my work, I probe a so-called **neo-emergentist** approach to language acquisition and variation, which assumes a radically impoverished Universal Grammar.
 
 Some of the projects I've worked on and/or I'm interested in include:
 
