@@ -22,7 +22,7 @@ I'm supervised by [Bert Vaux](https://www.mmll.cam.ac.uk/bv230) and [Theresa Bib
 
 Before my PhD, I completed a BA and MPhil in Linguistics also at the University of Cambridge (St John's College), supervised by Theresa Biberauer. You can find my full CV [here](https://nuria-bosch.github.io/assets/pdf/cv_September_2023.pdf).
 
-I'm interested in **syntax** (theoretical, comparative, diachronic), **language acquisition** and **biolinguistics**. In my work, I probe a so-called **neo-emergentist** approach to language acquisition and variation, which assumes a radically impoverished Universal Grammar.
+I'm interested in **syntax** (theoretical, comparative, diachronic), **language acquisition** and **biolinguistics**. In my work, I probe a so-called **neo-emergentist** approach to language acquisition and variation, which assumes a radically impoverished Universal Grammar. I have a keen interest in interdisciplinary approaches to language.
 
 Some of the projects I've worked on and/or I'm interested in include:
 
@@ -31,6 +31,7 @@ Some of the projects I've worked on and/or I'm interested in include:
 - Foundations of functional/extended projections (theoretically and developmentally).
 - 'Feature (un)bundling' and variation at the left periphery.
 - Relationship betweeen L1 (and L2) acquirers, developmental patterns and language change.
+- Applications of dynamical systems theory and category theory in linguistics.
 - Expressive/evaluative reduplication in Catalan and Spanish syntax.
     
 When not doing linguistics, I can be found reading, listening to music, coding or doing graphic design, travelling and following Barcelona's football games (or, more rarely, playing football). I'm originally from Ripoll, a small town in the north of Catalonia, next to the Pyrenees and near the French border.
