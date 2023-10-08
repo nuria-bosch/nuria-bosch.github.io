@@ -25,7 +25,7 @@ To come!
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Committee roles</h4>
 
 - 2023-Present. **Committee Member** at the Cambridge University Catalan Society (CUCAT)
-- 2021-Present. **President** of the St John's College Linguistics Society
+- 2021-2023. **President** of the St John's College Linguistics Society
 - 2021-2022. **Representative for Linguistics Part IIB** at the Staff-Student Liaison Committee (SSLC, University of Cambridge)
 - 2020-2021. **Institutional Representative for the University of Cambridge** at the Undergraduate Linguistics Association of Britain (ULAB)
 
@@ -42,4 +42,4 @@ To come!
 
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Reading groups</h4>
 
-- 2023-Present. **Co-organiser** of Historical Linguistics Reading Group, with Marieke Meelen and Sarah Gordon (University of Cambridge).
+- 2023-Present. **Co-organiser** of Historical Linguistics Reading Group (Theme: Language Acquisition and Change), with Marieke Meelen and Sarah Gordon (University of Cambridge).
