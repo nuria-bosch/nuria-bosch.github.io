@@ -32,6 +32,6 @@ Some of the projects I've worked on and/or I'm interested in include:
 - 'Feature (un)bundling' and variation at the left periphery.
 - Relationship betweeen L1 (and L2) acquirers, developmental patterns and language change.
 - Applications of dynamical systems theory and category theory in linguistics.
-- Expressive/evaluative reduplication in Catalan and Spanish syntax.
+- Expressive language in Catalan and Spanish, and crosslinguistically.
     
 When not doing linguistics, I can be found reading, listening to music, coding or doing graphic design, travelling and following Barcelona's football games (or, more rarely, playing football). I'm originally from Ripoll, a small town in the north of Catalonia, next to the Pyrenees and near the French border.
