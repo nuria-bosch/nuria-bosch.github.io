@@ -5,5 +5,5 @@ title: cv 👣
 description: A full version of my CV is available at the PDF document linked on the right.
 nav: true
 nav_order: 6
-cv_pdf: cv_September_2023.pdf
+cv_pdf: cv_October_2023.pdf
 ---
