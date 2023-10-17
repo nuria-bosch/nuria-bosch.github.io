@@ -212,6 +212,13 @@
             <a href="{{ entry.slides_long | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Long Slides</a>
             {%- endif %}
           {%- endif %}
+            {%- if entry.handout %}
+            {% if entry.handout contains '://' -%}
+            <a href="{{ entry.handout }}" class="btn btn-sm z-depth-0" role="button">Handout</a>
+            {%- else -%}
+            <a href="{{ entry.handout | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Handout</a>
+            {%- endif %}
+          {%- endif %}
           {%- if entry.video %}
             <a href="{{ entry.video }}" class="btn btn-sm z-depth-0" role="button">Video</a>
           {%- endif %}
