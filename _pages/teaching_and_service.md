@@ -18,8 +18,8 @@ To come!
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Editorial experience</h4>
 
 - 2023-Present. (_ad hoc_) **Associate Copyeditor** at the Journal of the Undergraduate Linguistics Association of Britain (JoULAB)
-- 2023-Present. **Associate Editor (Academic)** at the Journal of the Undergraduate Linguistics Association of Britain (JoULAB)
-- 2022-2023. **Associate Editor (Production)** at the Journal of the Undergraduate Linguistics Association of Britain (JoULAB)
+- 2023-Present. **Associate Editor (Academic)** at the Journal of the Undergraduate Linguistics Association of Britain (JoULAB) (recommendation available on my [LinkedIn](https://uk.linkedin.com/in/núria-bosch-masip))
+- 2022-2023. **Associate Editor (Production)** at the Journal of the Undergraduate Linguistics Association of Britain (JoULAB) (recommendation available on my [LinkedIn](https://uk.linkedin.com/in/núria-bosch-masip))
 - June 2022. **Editorial Design Assistant** for U-Lingua Issue 9
 
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Committee roles</h4>
