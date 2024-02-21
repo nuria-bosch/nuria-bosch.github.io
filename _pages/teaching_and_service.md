@@ -9,7 +9,7 @@ nav_order: 5
 
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Teaching</h4>
 
-To come!
+- 2024. **Guest lecturer** for _Syntax_ (Module 1, Session 4) of the MSt in English Language Assessment (Institute of Continuing Education, University of Cambridge)
 
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Reviewing</h4>
 
