@@ -18,6 +18,7 @@ All my presentations divided into
 <ul>
     <li><a href="#invited"><b>Invited talks</b></a></li>
     <li><a href="#peerreviewed"><b>Peer-reviewed presentations</b></a></li>
+    <li><a href="#departmental"><b>Departmental presentations</b></a></li>
     <li><a href="#nonrefereed"><b>Non-refereed presentations</b></a></li>
     <li><a href="#general"><b>General audience presentations</b></a></li>
 </ul>
@@ -34,6 +35,11 @@ All my presentations divided into
 <hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;">
 
 {% bibliography -f peerreviewed %} 
+
+<a id="nonrefereed"><h3 style="margin-top: 3rem; margin-bottom: 0.3rem;">Departmental</h3></a>
+<hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;">
+  
+{% bibliography -f departmental %}
  
 <a id="nonrefereed"><h3 style="margin-top: 3rem; margin-bottom: 0.3rem;">Non-refereed</h3></a>
 <hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;">
