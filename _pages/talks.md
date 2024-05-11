@@ -36,7 +36,7 @@ All my presentations divided into
 
 {% bibliography -f peerreviewed %} 
 
-<a id="nonrefereed"><h3 style="margin-top: 3rem; margin-bottom: 0.3rem;">Departmental</h3></a>
+<a id="departmental"><h3 style="margin-top: 3rem; margin-bottom: 0.3rem;">Departmental</h3></a>
 <hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;">
   
 {% bibliography -f departmental %}
