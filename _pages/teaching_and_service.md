@@ -25,7 +25,7 @@ nav_order: 5
 
 _Edited volumes_
 
-- Ema Banerjee, Núria Bosch, Steph Cooper \& Nina Haket (Eds.). (2024). \textit{Cambridge Occasional Papers in Linguistics}, 16.
+- Ema Banerjee, Núria Bosch, Steph Cooper \& Nina Haket (Eds.). (2024). _Cambridge Occasional Papers in Linguistics_, 16.
 
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Committee roles</h4>
 
