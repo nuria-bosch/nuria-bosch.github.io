@@ -23,6 +23,10 @@ nav_order: 5
 - 2022-2023. **Associate Editor (Production)** at the Journal of the Undergraduate Linguistics Association of Britain (JoULAB) (recommendation available on my [LinkedIn](https://uk.linkedin.com/in/núria-bosch-masip))
 - June 2022. **Editorial Design Assistant** for U-Lingua Issue 9
 
+_Edited volumes_
+
+- Ema Banerjee, Núria Bosch, Steph Cooper \& Nina Haket (Eds.). (2024). \textit{Cambridge Occasional Papers in Linguistics}, 16.
+
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Committee roles</h4>
 
 - 2023-Present. **Committee Member** at the Cambridge University Linguistics Society (CU LingSoc)
