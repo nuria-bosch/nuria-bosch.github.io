@@ -27,9 +27,9 @@ I'm interested in **syntax** (theoretical, comparative, diachronic), **language 
 Some of the projects I've worked on and/or I'm interested in include:
 
 - Acquisition of functional categories (including cartographic categories) from a neo-emergentist perspective.
-- Acquisition of illocutionary complementisers in Ibero-Romance and Italian.
+- Structure, variation and acquisition of the left periphery.
 - Foundations of functional/extended projections (theoretically and developmentally).
-- 'Feature (un)bundling' and variation at the left periphery.
+- Acquisition of illocutionary complementisers in Ibero-Romance and Italian.
 - Relationship betweeen L1 (and L2) acquirers, developmental patterns and language change.
 - Applications of dynamical systems theory and category theory in linguistics.
 - Expressive language in Catalan and Spanish, and crosslinguistically.
