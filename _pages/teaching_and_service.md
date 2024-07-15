@@ -13,7 +13,8 @@ nav_order: 5
 
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Reviewing</h4>
 
-- **Abstracts**. Annual Conference of the Undergraduate Linguistics Association of Britain (2023, 2024) 
+- **Abstracts**. Annual Conference of the Undergraduate Linguistics Association of Britain (2023, 2024)
+- **Papers**. Proceedings of ConSOLE32 (2024) 
 
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Editorial experience</h4>
 
