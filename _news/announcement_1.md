@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'll be at NELS 55 (Yale University) presenting a poster (with Theresa Biberauer), "Not all topics are equal: syntactic complexity and its effect on the acquisition of left-peripheral structures".
+I'll be at NELS 55 (Yale University), October 17-18, presenting a poster (with Theresa Biberauer), "Not all topics are equal: syntactic complexity and its effect on the acquisition of left-peripheral structures".
