@@ -1,6 +1,6 @@
 ---
 layout: post
-inline: false
+inline: true
 related_posts: false
 ---
 
