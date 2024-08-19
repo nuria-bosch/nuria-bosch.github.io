@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will give a talk (with Theresa Biberauer) at GALA 16 (NOVA University of Lisbon), 12-14 September.
+I will give a talk (with Theresa Biberauer) at [GALA 16](https://galalisbon2024.fcsh.unl.pt) (NOVA University of Lisbon), 12-14 September.
