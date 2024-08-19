@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A long announcement with details
+title: BUCLD 49
 date: 2024-07
 inline: false
 related_posts: false
