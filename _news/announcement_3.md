@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I will give a talk (with Theresa Biberauer) at GALA 16 (NOVA University of Lisbon), 12-14 September.
