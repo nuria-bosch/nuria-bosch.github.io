@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I'm Núria Bosch [ˈnuɾiə βɔsk], a **first-year PhD student** in Linguistics at the University of Cambridge (St John's College). I specialise in syntax and first language acquisition.
+Hello! I'm Núria Bosch [ˈnuɾiə βɔsk], a **first-year PhD student** in Linguistics at the University of Cambridge (St John's College). I specialise in syntax and first language acquisition, with particular focus on developmental and architectural questions.
 
 I'm supervised by [Bert Vaux](https://www.mmll.cam.ac.uk/bv230) and [Theresa Biberauer](https://www.mmll.cam.ac.uk/dr-theresa-biberauer) and I'm supported by an OOC AHRC DTP - St John's studentship. I'm also an Honorary Cambridge Trust Scholar. My PhD project is outlined on the [AHRC website](https://www.oocdtp.ac.uk/people/nuria-bosch).
 
