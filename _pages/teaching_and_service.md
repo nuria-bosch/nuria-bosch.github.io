@@ -9,12 +9,14 @@ nav_order: 5
 
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Teaching</h4>
 
-**Supervisions - Small Group Teaching (University of Cambridge)**
+_Supervisions - Small Group Teaching (University of Cambridge)_
+
 - 2024-2025. _Li2 Structures and Meanings_, Part I Linguistics Tripos
 - 2024-2025. _Li8 Morphology_, Part IIB Linguistics Tripos
 - 2024-2025. _Li11 Historical Linguistics_, Part IIA/B Linguistics Tripos.
 
-**Guest lectures**
+_Guest lectures_
+
 - May 2024. _Syntax_ (Module 1, Session 4) of the MSt in English Language Assessment (Institute of Continuing Education, University of Cambridge)
 
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Reviewing</h4>
