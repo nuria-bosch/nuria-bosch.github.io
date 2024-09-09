@@ -22,7 +22,7 @@ _Guest lectures_
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Reviewing</h4>
 
 - **Abstracts**. Annual Conference of the Undergraduate Linguistics Association of Britain (2023, 2024)
-- **Papers**. Proceedings of ConSOLE32 (2024) 
+- **Papers**. Proceedings of ConSOLE32 (2024), Journal of the Undergraduate Linguistics Association of Britain (2024)
 
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Editorial experience</h4>
 
@@ -38,8 +38,9 @@ _Edited volumes_
 
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Committee roles</h4>
 
+- 2023-2024. **Co-President** at the Cambridge University Catalan Society (CUCAT)
 - 2023-Present. **Secretary** at the Cambridge University Linguistics Society (CU LingSoc)
-- 2023-Present. **Committee Member** at the Cambridge University Catalan Society (CUCAT)
+- 2023-2024. **Committee Member** at the Cambridge University Catalan Society (CUCAT)
 - 2021-2023. **President** of the St John's College Linguistics Society
 - 2021-2022. **Representative for Linguistics Part IIB** at the Staff-Student Liaison Committee (SSLC, University of Cambridge)
 - 2020-2021. **Institutional Representative for the University of Cambridge** at the Undergraduate Linguistics Association of Britain (ULAB)
