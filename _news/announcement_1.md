@@ -1,8 +1,10 @@
 ---
 layout: post
-date: 2024-06-21 07:59:00-0400
+date: 2024-08-21 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I'll give a talk (with Theresa Biberauer) at [GALA 16](https://galalisbon2024.fcsh.unl.pt) (NOVA University of Lisbon), 12-14 September, "Emergent syntactic categories and increasing granularity: evidence from a multilingual corpus study".
+Our paper "On another topic, how do acquisition orders vary? The left periphery and topicalisation in bilingual and monolingual acquisition" (with Theresa Biberauer) was accepted for a poster at BUCLD 49, 7-10 November.
+
+I'll also be at MIT giving a talk at Syntax Square on 5 November!
