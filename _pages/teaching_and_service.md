@@ -45,6 +45,11 @@ _Edited volumes_
 - 2021-2022. **Representative for Linguistics Part IIB** at the Staff-Student Liaison Committee (SSLC, University of Cambridge)
 - 2020-2021. **Institutional Representative for the University of Cambridge** at the Undergraduate Linguistics Association of Britain (ULAB)
 
+<h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Undergraduate Admissions</h4>
+
+- 2024. **Undergraduate Admissions Exam Marker** for Linguistics at Faculty of Modern and Medieval Languages and Linguistics (University of Cambridge)
+- 2024. **Undergraduate Admissions Interviewer** for Linguistics at Churchill, Magdalene, Peterhouse and Robinson Colleges (University of Cambridge).
+
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Workshops and panels</h4>
 
 - Aug 2023. **Speaker** at _JoULAB panel_ on undergraduate publishing and reviewing at the the 2023 LAGB Summer School 
