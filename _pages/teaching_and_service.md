@@ -38,7 +38,7 @@ _Edited volumes_
 
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Committee roles</h4>
 
-- 2023-2024. **Co-President** at the Cambridge University Catalan Society (CUCAT)
+- 2024-Present. **Co-President** at the Cambridge University Catalan Society (CUCAT)
 - 2023-Present. **Secretary** at the Cambridge University Linguistics Society (CU LingSoc)
 - 2023-2024. **Committee Member** at the Cambridge University Catalan Society (CUCAT)
 - 2021-2023. **President** of the St John's College Linguistics Society
