@@ -48,7 +48,7 @@ _Edited volumes_
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Undergraduate Admissions</h4>
 
 - Dec 2024. **Undergraduate Admissions Exam Marker** for Linguistics at Faculty of Modern and Medieval Languages and Linguistics (University of Cambridge)
-- Dec 2024. **Undergraduate Admissions Interviewer** for Linguistics at Churchill, Magdalene, Peterhouse and Robinson Colleges (University of Cambridge).
+- Dec 2024. **Undergraduate Admissions Interviewer** for Linguistics at Churchill, Magdalene, Peterhouse and Robinson Colleges (University of Cambridge)
 
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Workshops and panels</h4>
 
