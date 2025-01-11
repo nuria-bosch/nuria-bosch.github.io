@@ -22,6 +22,13 @@
       description:
         - First Class with Distinction
 
+- title: Visiting Positions
+  type: time_table
+  contents:
+    - title: Short-term Doctoral Fellow (April-July) - Negation in Language and Beyond (NegLaB) project
+      institution: Goethe-Universität Frankfurt
+      year: 2025
+
 - title: Additional Training
   type: time_table
   contents:
