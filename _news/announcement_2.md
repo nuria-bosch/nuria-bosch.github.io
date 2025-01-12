@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'll be at [NELS 55](https://campuspress.yale.edu/nels55/) (Yale University), October 17-18, presenting a poster (with Theresa Biberauer), "Not all topics are equal: syntactic complexity and its effect on the acquisition of left-peripheral structures".
+From April-July 2025, I will be a short-term Doctoral Fellow at the DFG-funded NegLaB project (Goethe-Universität Frankfurt), working with Esther Rinke and Petra Schulz.
