@@ -18,8 +18,9 @@ All my research outputs divided into
 <p>
 <ul>
     <li><a href="#manuscript"><b>Manuscripts</b></a></li>
-    <li><a href="#journal"><b>Journal articles</b></a></li>
+    <li><a href="#journal"><b>Journal and edited volume articles</b></a></li>
     <li><a href="#proceedings"><b>Proceedings articles</b></a></li>
+    <li><a href="#working"><b>Working papers</b></a></li>
     <li><a href="#theses"><b>Theses</b></a></li>
 </ul>
 </p>
@@ -43,6 +44,10 @@ All my research outputs divided into
 <hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;">
   
 {% bibliography -f proceedings %}
+
+<a id="journal"><h3 style="margin-top: 3.3rem; margin-bottom: 0.3rem;">Working papers</h3></a>
+<hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;">
+{% bibliography -f workingpapers %}
 
 <a id="theses"><h3 style="margin-top: 3rem; margin-bottom: 0.3rem;">Theses</h3></a>
 <hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;">
