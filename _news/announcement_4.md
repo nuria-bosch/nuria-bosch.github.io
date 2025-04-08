@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'll give an invited talk at the [Formal Linguistics Research Group](https://www.qmul.ac.uk/sllf/linguistics/research/formal/) (Queen Mary University of London) in March.
+I'll give a talk at [DiGS26](https://sites.google.com/view/digs26oxford), 23-26 June, entitled 'The rise of expressive negation in a proper noun: the case of Rita in Catalan'.
