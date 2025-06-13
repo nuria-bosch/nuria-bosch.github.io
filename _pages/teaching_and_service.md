@@ -21,7 +21,7 @@ _Guest lectures_
 
 _Examining (University of Cambridge)_
 
-- 2025. _Li8 Morphology_, Part IIB Linguistics Tripos.
+- June 2025. _Li8 Morphology_, Part IIB Linguistics Tripos.
 
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Reviewing</h4>
 
