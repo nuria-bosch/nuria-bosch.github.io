@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-<h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Teaching</h4>
+<h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Teaching and Examining</h4>
 
 _Supervisions - Small Group Teaching (University of Cambridge)_
 
@@ -18,6 +18,10 @@ _Supervisions - Small Group Teaching (University of Cambridge)_
 _Guest lectures_
 
 - May 2024. _Syntax_ (Module 1, Session 4) of the MSt in English Language Assessment (Institute of Continuing Education, University of Cambridge)
+
+_Examining (University of Cambridge)_
+
+- 2025. _Li8 Morphology_, Part IIB Linguistics Tripos.
 
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Reviewing</h4>
 
@@ -38,7 +42,8 @@ _Edited volumes_
 
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Committee roles</h4>
 
-- 2024-Present. **Vice-President** at the Cambridge University Catalan Society (CUCAT)
+- 2025-Present. **Social Media Coordinator** at the Cambridge University Catalan Society (CUCAT)
+- 2024-2025. **Vice-President** at the Cambridge University Catalan Society (CUCAT)
 - 2023-Present. **Secretary** at the Cambridge University Linguistics Society (CU LingSoc)
 - 2023-2024. **Committee Member** at the Cambridge University Catalan Society (CUCAT)
 - 2021-2023. **President** of the St John's College Linguistics Society
