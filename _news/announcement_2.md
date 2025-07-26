@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'll be at [BieLeiCoS 2025](https://www.uni-bielefeld.de/fakultaeten/linguistik-literaturwissenschaft/forschung/arbeitsgruppen/allg-sprachwissenschaft/bieleicos-2025/), 22-23 May, giving a poster 'V2 all the way down: Germanic innovations in the embedded CP of German-Italian bilinguals' (with Theresa Biberauer).
+I'll be a visiting PhD student at [New York University](https://as.nyu.edu/departments/linguistics.html) this Fall (September-December)! My sponsors are [Ailís Cournane](https://wp.nyu.edu/cournane/) and [Gary Thoms](https://sites.google.com/site/garythoms/).
