@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'll give a talk at [DiGS26](https://sites.google.com/view/digs26oxford), 23-26 June, entitled 'The rise of expressive negation in a proper noun: the case of Rita in Catalan'.
+Our abstract (with Theresa Biberauer) was accepted at [NELS 56](https://wp.nyu.edu/artsampscience-nels56/) for a talk! We will present "On the formal heterogeneity of expletive subjects: new insights from acquisition".
