@@ -17,7 +17,13 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+  font-weight: 500;
 }
+
+b {
+  font-weight: 500;
+}
+
 
 body {
   font-family: 'Fira Sans', sans-serif;
