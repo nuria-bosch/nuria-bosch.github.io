@@ -46,10 +46,10 @@ table {
 
 a,
 table.table a {
-  color: var(--global-linj-color);
+  color: var(--global-theme-color);
 
   &:hover {
-    color: var(--global-link-color);
+    color: var(--global-theme-color);
     text-decoration: underline;
   }
 
