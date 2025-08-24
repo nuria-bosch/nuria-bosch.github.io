@@ -20,7 +20,9 @@ Hello! I'm Núria Bosch [ˈnuɾiə βɔsk], a **third-year PhD student** in Ling
 
 I'm supervised by [Bert Vaux](https://www.mmll.cam.ac.uk/bv230) and [Theresa Biberauer](https://www.mmll.cam.ac.uk/dr-theresa-biberauer) and I'm supported by an OOC AHRC DTP - St John's studentship. I'm also an Honorary Cambridge Trust Scholar. My PhD project is outlined on the [AHRC website](https://www.oocdtp.ac.uk/people/nuria-bosch). 
 
-From April-July 2025, I am a short-term Doctoral Fellow at the DFG-funded [NegLaB Collaborative Research Centre](https://www.neglab.de) (Goethe-Universität Frankfurt), where I work with [Esther Rinke](https://www.neglab.de/prof-dr-esther-rinke/) and [Petra Schulz](https://www.neglab.de/prof-dr-petra-schulz/).
+During Fall 2025, I am a visiting student at the Department of Linguistics at [New York University](https://as.nyu.edu/departments/linguistics.html), sponsored by [Ailís Cournane](https://wp.nyu.edu/cournane/) and [Gary Thoms](https://sites.google.com/site/garythoms/). 
+
+From April-July 2025, I was a short-term Doctoral Fellow at the DFG-funded [NegLaB Collaborative Research Centre](https://www.neglab.de) (Goethe-Universität Frankfurt), where I worked with [Esther Rinke](https://www.neglab.de/prof-dr-esther-rinke/) and [Petra Schulz](https://www.neglab.de/prof-dr-petra-schulz/).
 
 Before my PhD, I completed a BA and MPhil in Linguistics also at the University of Cambridge (St John's College), supervised by Theresa Biberauer. You can find my **full CV [here](https://nuria-bosch.github.io/assets/pdf/Bosch_cv_August_2025.pdf)**.
 
