@@ -140,8 +140,8 @@ span,
 strong {
   color: var(--global-text-color);
   font-family: "Fira Sans", serif;
-  font-weight: 400;
-  font-style: normal;
+  font-weight: 300;
+  font-style: thin;
 }
 
 hr {
