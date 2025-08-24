@@ -15,17 +15,19 @@ em,
 div,
 li,
 span,
-
-
-body {
+body {  /* removed the trailing comma that broke it */
   font-family: 'Fira Sans', sans-serif;
-  font-weight: 300; // Light
+  font-weight: 300; /* Light */
+  font-style: normal;
+  color: var(--global-text-color);
 }
 
-strong, b {
+strong,
+b {
   color: var(--global-text-color);
-  font-weight: 500;
+  font-weight: 500 !important; /* ensures bold shows */
 }
+
 
 hr {
   border-top: 1px solid var(--global-divider-color);
