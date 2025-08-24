@@ -913,6 +913,14 @@ nav[data-toggle=toc] .nav-link.active:hover {
   color: var(--global-danger-block-title);
 }
 
+body {
+  font-family: "Linux Libertine", serif !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Linux Libertine", serif !important;
+}
+
 /*******************************************************************************
  * Style overrides for distill blog posts.
  ******************************************************************************/
