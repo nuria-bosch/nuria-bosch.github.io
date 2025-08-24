@@ -164,11 +164,11 @@ table th {
 
 a,
 table.table a {
-  color: var(--global-theme-color);
+  color: var(--global-linj-color);
 }
 a:hover,
 table.table a:hover {
-  color: var(--global-theme-color);
+  color: var(--global-link-color);
   text-decoration: underline;
 }
 a:hover:after :not(.nav-item.dropdown),
