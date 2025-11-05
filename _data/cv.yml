@@ -25,6 +25,8 @@
 - title: Visiting Positions
   type: time_table
   contents:
+    - title: Visiting PhD Student (September-December) - New York University
+      year: 2025
     - title: MGK Doctoral Fellow (April-July) - Negation in Language and Beyond (NegLaB) project
       institution: Goethe-Universität Frankfurt
       year: 2025
@@ -64,9 +66,13 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - Student Travel Fellowship (formerly, Diversity Travel Fellowship) (50th Boston University Conference on Language Development, BUCLD 50)
+        - Paula Menyuk Award for top-rated student abstracts (50th Boston University Conference on Language Development, BUCLD 50)
     - year: 2024
       items:
-        - Paula Menyuk Award for top-rated student abstracts (48th Boston University Conference on Language Development, BUCLD 49)
+        - Paula Menyuk Award for top-rated student abstracts (49th Boston University Conference on Language Development, BUCLD 49)
     - year: 2023
       items: 
         - Paula Menyuk Award for top-rated student abstracts (48th Boston University Conference on Language Development, BUCLD 48)
