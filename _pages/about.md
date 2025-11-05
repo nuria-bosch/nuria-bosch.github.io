@@ -26,14 +26,16 @@ From April-July 2025, I was a short-term Doctoral Research Fellow at the DFG-fun
 
 Before my PhD, I completed a BA and MPhil in Linguistics also at the University of Cambridge (St John's College), supervised by Theresa Biberauer. You can find my **full CV [here](https://nuria-bosch.github.io/assets/pdf/Bosch_cv_October_2025.pdf)**.
 
-I'm interested in **syntax** (theoretical, comparative, diachronic), **language acquisition** and **biolinguistics**. In my work, I probe a so-called **neo-emergentist** approach to language acquisition and variation, which assumes a maximally impoverished Universal Grammar. I have a keen interest in interdisciplinary approaches to language.
+I'm interested in **syntax** (theoretical, comparative, diachronic), **language acquisition**, and **interdisciplinary** approaches to language. My work explores a **neo-emergentist** generative approach to language acquisition and variation, which assumes a maximally impoverished Universal Grammar. I have a keen interest in comparative and multilingual perspectives on language acquisition.
 
 Some of the projects I've worked on and/or I'm interested in include:
 
 - Acquisition of functional categories (including cartographic categories) from a neo-emergentist perspective.
 - Structure, variation and acquisition of the left periphery.
 - Foundations of functional/extended projections (theoretically and developmentally).
-- Acquisition of negation and Negative Concord crosslinguistically. 
+- Acquisition of A'-dependencies crosslinguistically.
+- Acquisition of negation and Negative Concord crosslinguistically.
+- Acquisition of expletive subjects in West Germanic. 
 - Acquisition of illocutionary complementisers in Ibero-Romance and Italian.
 - Relationship betweeen L1 (and L2) acquirers, developmental patterns and language change.
 - Applications of dynamical systems theory and category theory in linguistics.
