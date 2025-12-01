@@ -8,7 +8,7 @@ profile:
   align: right
   image: bridge_of_sighs.jpg
   image_circular: false # crops the image to make it circular
-  address: Me, not next to St John's Bridge of Sighs
+  address: Me, not in front of St John's Bridge of Sighs
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
