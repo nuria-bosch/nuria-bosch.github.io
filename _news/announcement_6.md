@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I've been invited to give a talk at [TreLinLab](https://linguistics.lett.unitn.it) (Università di Trento), 22 May 2026!
+I've been invited to give a talk at [TreLinLab](https://linguistics.lett.unitn.it) (Università di Trento), 29 May 2026!
