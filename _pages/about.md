@@ -6,7 +6,7 @@ subtitle: <a href='https://www.mmll.cam.ac.uk/dtal'>University of Cambridge</a> 
 
 profile:
   align: right
-  image: bridgeofsighs.jpg
+  image: bridgesighs.jpg
   image_circular: false # crops the image to make it circular
   address: Me, not in front of St John's Bridge of Sighs
 
