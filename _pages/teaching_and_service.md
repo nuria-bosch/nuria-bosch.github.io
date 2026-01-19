@@ -45,8 +45,8 @@ _Edited volumes_
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Committee roles</h4>
 
 - 2025-Present. **Social Media Coordinator** at the Cambridge University Catalan Society (CUCAT)
-- 2024-2025. **Vice-President** at the Cambridge University Catalan Society (CUCAT)
 - 2023-Present. **Secretary** at the Cambridge University Linguistics Society (CU LingSoc)
+- 2024-2025. **Vice-President** at the Cambridge University Catalan Society (CUCAT)
 - 2023-2024. **Committee Member** at the Cambridge University Catalan Society (CUCAT)
 - 2021-2023. **President** of the St John's College Linguistics Society
 - 2021-2022. **Representative for Linguistics Part IIB** at the Staff-Student Liaison Committee (SSLC, University of Cambridge)
@@ -54,6 +54,7 @@ _Edited volumes_
 
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Undergraduate Admissions</h4>
 
+- Dec 2025. **Undergraduate Admissions Interviewer** for Linguistics at St John's College (University of Cambridge)
 - Dec 2024. **Undergraduate Admissions Exam Marker** for Linguistics at Faculty of Modern and Medieval Languages and Linguistics (University of Cambridge)
 - Dec 2024. **Undergraduate Admissions Interviewer** for Linguistics at Churchill, Magdalene, Peterhouse and Robinson Colleges (University of Cambridge)
 
