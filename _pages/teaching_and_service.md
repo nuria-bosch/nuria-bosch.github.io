@@ -17,6 +17,8 @@ _Supervisions - Small Group Teaching (University of Cambridge)_
 
 _Guest lectures_
 
+- December 2025. _Acquiring the Features of Negative Indefinites: a comparison of Catalan, Spanish and Italian with West Germanic in Acquiring different aspects of negation: a cross-
+linguistic perspective_ (MA course, Goethe-Universität Frankfurt).
 - May 2024. _Syntax_ (Module 1, Session 4) of the MSt in English Language Assessment (Institute of Continuing Education, University of Cambridge)
 
 _Examining (University of Cambridge)_
@@ -26,7 +28,7 @@ _Examining (University of Cambridge)_
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Reviewing</h4>
 
 - **Abstracts**. Annual Conference of the Undergraduate Linguistics Association of Britain (2023, 2024)
-- **Papers**. Proceedings of ConSOLE32 (2024), Journal of the Undergraduate Linguistics Association of Britain (2024)
+- **Papers**. Linguistik Aktuell (2026), Proceedings of ConSOLE32 (2024), Journal of the Undergraduate Linguistics Association of Britain (2024)
 
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Editorial experience</h4>
 
