@@ -24,7 +24,7 @@ I spent Fall 2025 as a visiting student at the Department of Linguistics at [New
 
 From April-July 2025, I was a short-term Doctoral Research Fellow at the DFG-funded [NegLaB Collaborative Research Centre](https://www.neglab.de) (Goethe-Universität Frankfurt), where I worked with [Esther Rinke](https://www.neglab.de/prof-dr-esther-rinke/) and [Petra Schulz](https://www.neglab.de/prof-dr-petra-schulz/).
 
-Before my PhD, I completed a BA and MPhil in Linguistics also at the University of Cambridge (St John's College), supervised by Theresa Biberauer. You can find my **full CV [here](https://nuria-bosch.github.io/assets/pdf/Bosch_cv_October_2025.pdf)**.
+Before my PhD, I completed a BA and MPhil in Linguistics also at the University of Cambridge (St John's College), supervised by Theresa Biberauer. You can find my **full CV [here](https://nuria-bosch.github.io/assets/pdf/Bosch_cv_January_2026.pdf)**.
 
 I'm interested in **syntax** (theoretical, comparative, diachronic), **language acquisition**, and **interdisciplinary** approaches to language. My work explores a **neo-emergentist** generative approach to language acquisition and variation, which assumes a maximally impoverished Universal Grammar. I have a keen interest in comparative, multilingual and formal perspectives on syntactic acquisition.
 
