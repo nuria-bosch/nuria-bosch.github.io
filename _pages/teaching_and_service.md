@@ -58,6 +58,10 @@ _Edited volumes_
 - 2021-2022. **Representative for Linguistics Part IIB** at the Staff-Student Liaison Committee (SSLC, University of Cambridge)
 - 2020-2021. **Institutional Representative for the University of Cambridge** at the Undergraduate Linguistics Association of Britain (ULAB)
 
+<h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Reading groups</h4>
+
+- 2023-Present. **Co-organiser** of Historical Linguistics Reading Group (Theme: Language Acquisition and Change), with Marieke Meelen and Sarah Gordon (University of Cambridge). Find our website [here](https://sites.google.com/cam.ac.uk/cambridge-histling)!
+
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Workshops and panels</h4>
 
 - Aug 2023. **Speaker** at _JoULAB panel_ on undergraduate publishing and reviewing at the the 2023 LAGB Summer School 
@@ -68,7 +72,3 @@ _Edited volumes_
 
 - Sept 2021. **Student helper** for LAGB Annual Meeting 2021
 - Sept 2020 and Jan 2021. **Student helper and webmaster** for Cambridge Comparative Syntax (CamCoS) 9 Parts I and II
-
-<h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Reading groups</h4>
-
-- 2023-Present. **Co-organiser** of Historical Linguistics Reading Group (Theme: Language Acquisition and Change), with Marieke Meelen and Sarah Gordon (University of Cambridge). Find our website [here](https://sites.google.com/cam.ac.uk/cambridge-histling)!
