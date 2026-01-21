@@ -28,9 +28,13 @@ Before my PhD, I completed a BA and MPhil in Linguistics also at the University 
 
 When not doing linguistics, I can be found reading, listening to music, coding, travelling and following Barcelona's football games (or, more rarely, playing football). I'm originally from Ripoll, a small town in the north of Catalonia, next to the Pyrenees and near the French border.
 
- <h2>my work</h2>
+ <h2>I work on...</h2>
 
-I'm interested in **syntax** (theoretical, comparative, diachronic), **language acquisition**, and **interdisciplinary** approaches to language. My work explores how children build up grammatical systems and how this process sheds light on synchronic and diachronic variation. I pursue this theme through corpus methods and multilingual data analysis to evaluate theoretical approaches to grammar construction. In particular, I develop a **neo-emergentist generative** approach to language acquisition and variation, which assumes a maximally impoverished Universal Grammar. I have a keen interest in comparative, multilingual and formal perspectives on syntactic acquisition.
+- **Syntax** (theoretical, comparative, diachronic)
+- **Language acquisition**
+- **Interdisciplinary** approaches to language
+
+My work explores how children build up grammatical systems and how this process sheds light on synchronic and diachronic variation. I pursue this theme through corpus methods and multilingual data analysis to evaluate theoretical approaches to grammar construction. In particular, I develop a **neo-emergentist generative** approach to language acquisition and variation, which assumes a maximally impoverished Universal Grammar. I have a keen interest in comparative, multilingual and formal perspectives on syntactic acquisition.
 
 Most of my research so far has focused on the acquisition of functional categories crosslinguistically, especially the left periphery and A’-dependencies. More recently, I’ve also studied expletive subjects, negation and expressive language. You can find [a summary of my work here](https://nuria-bosch.github.io/projects/). 
   
