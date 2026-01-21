@@ -949,6 +949,14 @@ nav[data-toggle=toc] .nav-link.active:hover {
   white-space: nowrap; /* prevent wrapping */
 }
 
+li a {
+  font-weight: bold; /* makes text bold */
+}
+
+li a:hover {
+  color: var(--link-hover-color); /* change on hover */
+}
+
 /*******************************************************************************
  * Style overrides for distill blog posts.
  ******************************************************************************/
