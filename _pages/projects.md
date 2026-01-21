@@ -16,5 +16,4 @@ horizontal: false
   <h4>You can add a header</h4>
   <p>You can add text within a collapsed section.</p>
 </details>
-</details>
 </div>
