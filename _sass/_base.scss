@@ -1018,7 +1018,9 @@ nav[data-toggle="toc"] {
 }
 
 .navbar-nav .nav-link {
-  display: flex;
-  align-items: center;
-  gap: 0.3rem;
+  display: inline-flex;      /* keep it inline with other text */
+  align-items: center;       /* vertically center emoji and text */
+  gap: 0.3rem;               /* spacing between emoji and text */
+  white-space: nowrap;       /* prevent wrapping */
 }
+
