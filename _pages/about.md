@@ -30,18 +30,7 @@ When not doing linguistics, I can be found reading, listening to music, coding, 
 
  <h2>my work</h2>
 
-I'm interested in **syntax** (theoretical, comparative, diachronic), **language acquisition**, and **interdisciplinary** approaches to language. My work explores a **neo-emergentist** generative approach to language acquisition and variation, which assumes a maximally impoverished Universal Grammar. I have a keen interest in comparative, multilingual and formal perspectives on syntactic acquisition.
+I'm interested in **syntax** (theoretical, comparative, diachronic), **language acquisition**, and **interdisciplinary** approaches to language. My work explores how children build up grammatical systems and how this process sheds light on synchronic and diachronic variation. I pursue this theme through corpus methods and multilingual data analysis to evaluate theoretical approaches to grammar construction. In particular, my work develops a **neo-emergentist generative** approach to language acquisition and variation, which assumes a maximally impoverished Universal Grammar. I have a keen interest in comparative, multilingual and formal perspectives on syntactic acquisition.
 
-Some of the projects I've worked on and/or I'm interested in include:
-
-- Acquisition of functional categories (including cartographic categories) from a neo-emergentist perspective.
-- Structure, variation and acquisition of the left periphery.
-- Foundations of functional/extended projections (theoretically and developmentally).
-- Acquisition of A'-dependencies crosslinguistically.
-- Acquisition of negation and Negative Concord crosslinguistically.
-- Acquisition of expletive subjects in West Germanic. 
-- Acquisition of illocutionary complementisers in Ibero-Romance and Italian.
-- Relationship betweeen L1 (and L2) acquirers, developmental patterns and language change.
-- Applications of dynamical systems theory and category theory in linguistics.
-- Expressive language in Catalan and Spanish, and crosslinguistically.
+Most of my research so far has focused on the acquisition of functional categories crosslinguistically, especially the left periphery and A’-dependencies. More recently, I’ve also studied expletive subjects, negation and expressive language. You can find a summary of my work here. 
   
