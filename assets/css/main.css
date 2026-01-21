@@ -933,7 +933,7 @@ nav[data-toggle=toc] .nav-link.active:hover {
 }
 
 .project-title {
-  font-size: 1.3rem;
+  font-size: 1.5rem;
   font-weight: bold;
 }
 
@@ -947,14 +947,6 @@ nav[data-toggle=toc] .nav-link.active:hover {
   align-items: center; /* vertically center emoji and text */
   gap: 0.3rem; /* spacing between emoji and text */
   white-space: nowrap; /* prevent wrapping */
-}
-
-li a {
-  font-weight: bold; /* makes text bold */
-}
-
-li a:hover {
-  color: var(--global-hover-color); /* change on hover */
 }
 
 /*******************************************************************************
