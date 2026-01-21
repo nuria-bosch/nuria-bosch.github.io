@@ -1024,3 +1024,10 @@ nav[data-toggle="toc"] {
   white-space: nowrap;       /* prevent wrapping */
 }
 
+li a {
+  font-weight: bold;   /* makes text bold */
+}
+
+li a:hover {
+  color: var(--link-hover-color);  /* change on hover */
+}
