@@ -42,6 +42,12 @@ _Edited volumes_
 
 - Ema Banerjee, Núria Bosch, Steph Cooper & Nina Haket (Eds.). (2024). _Cambridge Occasional Papers in Linguistics_, 16 [[link](https://www.mmll.cam.ac.uk/node/9212/volume-16)].
 
+<h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Undergraduate Admissions</h4>
+
+- Dec 2025. **Undergraduate Admissions Interviewer** for Linguistics at St John's College (University of Cambridge)
+- Dec 2024. **Undergraduate Admissions Exam Marker** for Linguistics at Faculty of Modern and Medieval Languages and Linguistics (University of Cambridge)
+- Dec 2024. **Undergraduate Admissions Interviewer** for Linguistics at Churchill, Magdalene, Peterhouse and Robinson Colleges (University of Cambridge)
+
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Committee roles</h4>
 
 - 2025-Present. **Social Media Coordinator** at the Cambridge University Catalan Society (CUCAT)
@@ -51,12 +57,6 @@ _Edited volumes_
 - 2021-2023. **President** of the St John's College Linguistics Society
 - 2021-2022. **Representative for Linguistics Part IIB** at the Staff-Student Liaison Committee (SSLC, University of Cambridge)
 - 2020-2021. **Institutional Representative for the University of Cambridge** at the Undergraduate Linguistics Association of Britain (ULAB)
-
-<h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Undergraduate Admissions</h4>
-
-- Dec 2025. **Undergraduate Admissions Interviewer** for Linguistics at St John's College (University of Cambridge)
-- Dec 2024. **Undergraduate Admissions Exam Marker** for Linguistics at Faculty of Modern and Medieval Languages and Linguistics (University of Cambridge)
-- Dec 2024. **Undergraduate Admissions Interviewer** for Linguistics at Churchill, Magdalene, Peterhouse and Robinson Colleges (University of Cambridge)
 
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Workshops and panels</h4>
 
