@@ -2,6 +2,7 @@
 layout: page
 title: projects 👩‍💻
 permalink: /projects/
+description: Under construction, sorry!
 nav: true
 nav_order: 3
 display_categories: [work]
@@ -12,7 +13,7 @@ horizontal: false
 <div class="projects">
 <details>
 
-<summary>Prokect 1</summary>
+<summary>Project 1</summary>
 
 ### You can add a header
 
