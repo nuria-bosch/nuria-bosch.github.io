@@ -1016,3 +1016,9 @@ nav[data-toggle="toc"] {
   color: var(--global-hover-color);
   cursor: pointer;
 }
+
+.navbar-nav .nav-link {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+}
