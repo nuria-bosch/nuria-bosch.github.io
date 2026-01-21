@@ -71,4 +71,4 @@ _Edited volumes_
 
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Reading groups</h4>
 
-- 2023-Present. **Co-organiser** of Historical Linguistics Reading Group (Theme: Language Acquisition and Change), with Marieke Meelen and Sarah Gordon (University of Cambridge).
+- 2023-Present. **Co-organiser** of Historical Linguistics Reading Group (Theme: Language Acquisition and Change), with Marieke Meelen and Sarah Gordon (University of Cambridge). Find our website [here](https://sites.google.com/cam.ac.uk/cambridge-histling)!
