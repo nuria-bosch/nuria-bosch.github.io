@@ -12,12 +12,9 @@ horizontal: false
 <!-- pages/projects.md -->
 <div class="projects">
 <details>
+  <summary><h3 style="display:inline">Project 1</h3></summary>
 
-<summary>Project 1</summary>
-
-### You can add a header
-
-You can add text within a collapsed section.
-
+  <h4>You can add a header</h4>
+  <p>You can add text within a collapsed section.</p>
 </details>
 </div>
