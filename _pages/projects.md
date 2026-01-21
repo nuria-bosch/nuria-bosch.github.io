@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects 📐
+title: projects 👩‍💻
 permalink: /projects/
 nav: true
 nav_order: 6
