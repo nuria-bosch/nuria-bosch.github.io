@@ -34,7 +34,7 @@ horizontal: false
 <details>
   <summary class="project-title">Expressive negation in Catalan proper nouns</summary>
   <p>I report a restricted set of proper nouns in Catalan and Spanish that can receive interpretations that resemble negative indefinites. Specifically, I use a large-scale grammaticality judgement survey to show one such proper noun (Rita) is at an advanced stage of grammaticalisation in a subset of speakers, partly behaving like Negative Concord Items in its syntactic distribution. </p>
-  <p>📝 DiGS 26 (<a href="https://nuria-bosch.github.io/assets/pdf/Bosch_DiGS26_slides.pdf">slides</a>); RoLinC invited talk (<a href="https://nuria-bosch.github.io/assets/pdf/Bosch_RoLinC_Rita_2024_slides.pdf">slides</a>); CRISPI paper (<a href="https://nuria-bosch.github.io/assets/pdf/Bosch_CRISPI_preprint.pdf">(preprint)</a></p>
+  <p>📝 DiGS 26 (<a href="https://nuria-bosch.github.io/assets/pdf/Bosch_DiGS26_slides.pdf">slides</a>); RoLinC invited talk (<a href="https://nuria-bosch.github.io/assets/pdf/Bosch_RoLinC_Rita_2024_slides.pdf">slides</a>); CRISPI paper (<a href="https://nuria-bosch.github.io/assets/pdf/Bosch_CRISPI_preprint.pdf">preprint</a><)/p>
 </details>
 
 <details>
