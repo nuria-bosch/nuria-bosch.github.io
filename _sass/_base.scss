@@ -1022,3 +1022,7 @@ nav[data-toggle="toc"] {
   gap: 0.3rem;               /* spacing between emoji and text */
   white-space: nowrap;       /* prevent wrapping */
 }
+
+.preview {
+  display: none !important;
+}
