@@ -22,7 +22,7 @@ horizontal: false
   <p><i>With Theresa Biberauer</i></p> 
   <p>This work looks at the development of expletive types (esp. weather vs. existential) in German, English and Dutch children. We show that children selectively drop expletive subjects, with omission targeting weather (but not existential) expletives. We offer a novel perspective on subject drop, by integrating the notion of categorial differentiation to derive the order of acquisition of subject distinctions. </p>
 
-  <p>📝 BUCLD 50 (slides); NELS 56 (slides).</p>
+  <p>📝 BUCLD 50 (<a href="https://nuria-bosch.github.io/assets/pdf/Bosch_Biberauer_BUCLD50_slides.pdf">slides</a>); NELS 56 (<a href="https://nuria-bosch.github.io/assets/pdf/Bosch_Biberauer_NELS56_slides.pdf">slides</a>).</p>
 </details>
 
 <details>
@@ -35,7 +35,7 @@ horizontal: false
 <details>
   <summary class="project-title">Expressive negation in Catalan proper nouns</summary>
   <p>I report a restricted set of proper nouns in Catalan and Spanish that can receive interpretations that resemble negative indefinites. Specifically, I use a large-scale grammaticality judgement survey to show one such proper noun (Rita) is at an advanced stage of grammaticalisation in a subset of speakers, partly behaving like Negative Concord Items in its syntactic distribution. </p>
-  <p>📝 DiGS 26 (slides); RoLinC invited talk (slides); CRISPI paper (to appear); COPiL paper (<a href="https://www.mmll.cam.ac.uk/sites/www.mmll.cam.ac.uk/files/v16_bosch.pdf">working paper</a>)</p>
+  <p>📝 DiGS 26 (<a href="https://nuria-bosch.github.io/assets/pdf/Bosch_DiGS26_slides.pdf">slides</a>); RoLinC invited talk (<a href="https://nuria-bosch.github.io/assets/pdf/Bosch_RoLinC_Rita_2024_slides.pdf">slides</a>); CRISPI paper (to appear); COPiL paper (<a href="https://www.mmll.cam.ac.uk/sites/www.mmll.cam.ac.uk/files/v16_bosch.pdf">working paper</a>)</p>
 </details>
 
 <details>
