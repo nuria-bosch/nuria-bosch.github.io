@@ -932,6 +932,10 @@ nav[data-toggle=toc] .nav-link.active:hover {
   color: var(--global-danger-block-title);
 }
 
+.project-title {
+  font-size: 1.3em;
+}
+
 .project-title:hover {
   color: var(--global-hover-color);
   cursor: pointer;
