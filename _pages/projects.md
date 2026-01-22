@@ -1,7 +1,7 @@
 ---
 layout: page
-title: projects 👩‍💻
-permalink: /projects/
+title: research 👩‍💻
+permalink: /research/
 nav: true
 nav_order: 3
 display_categories: [work]
@@ -13,7 +13,7 @@ horizontal: false
 <details>
   <summary class="project-title">My PhD project</summary>
   <p>Under construction!</p>
-  <p>📝 For output, see my <a href="https://nuria-bosch.github.io/publications">publications</a> and <a href="https://nuria-bosch.github.io/talks">presentations</a> pages.</p>
+  <p>📝 For output, see my <a href="https://nuria-bosch.github.io/publications">publications</a> and <a href="https://nuria-bosch.github.io/presentations">presentations</a> pages.</p>
 </details>
 
 <details>
