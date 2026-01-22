@@ -13,8 +13,8 @@ horizontal: false
 <div class="projects">
 <details>
   <summary class="project-title">My PhD project</summary>
-  <h4>You can add a header</h4>
-  <p>You can add text within a collapsed section.</p>
+  <p>Under construction!</p>
+  <p>📝 For output, see my <a href="https://nuria-bosch.github.io/publications">publications</a> and <a href="https://nuria-bosch.github.io/talks">presentations</a> pages.</p>
 </details>
 
 <details>
