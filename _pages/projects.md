@@ -29,7 +29,7 @@ horizontal: false
   <summary class="project-title">Acquisition of Negative Concord in Catalan and Spanish</summary>
   <p><i>In collaboration with <a href="https://www.neglab.de/projects/c06/">NegLaB project C06</a> (PIs Esther Rinke and Petra Schulz)</i></p> 
   <p>As part of a short-term research fellowship with NegLaB, I worked on the first study of the acquisition of Negative Concord in Catalan and Spanish, which I then compared to the development of West Germanic Negative Quantifiers. I propose that the Catalan and Spanish data provides novel evidence against the idea that Negative Concord is acquisitionally more ‘default’ than a Double Negation system.   </p>
-  <p>📝 Please email me if interested in slides/manuscripts.</p>
+  <p>📝 Ongoing. Please email me if interested in slides/manuscripts.</p>
 </details>
 
 <details>
