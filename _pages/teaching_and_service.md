@@ -50,9 +50,6 @@ _Edited volumes_
 
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Access and outreach</h4>
 
-- Sept 2021. **Student helper** for LAGB Annual Meeting 2021
-- Sept 2020 and Jan 2021. **Student helper and webmaster** for Cambridge Comparative Syntax (CamCoS) 9 Parts I and II
-
 - Dec 2025. **Invited speaker** on _Recerca en les Humanitats: una perspectiva des de les llengües i la lingüística_ \[Research in the Humanities: A perspective from languages and linguistics; talk for 1st year Baccalaureate students] (Col·legi Sant Miquel dels Sants, Vic)
 - 2019-Present. **Student Ambassador** for  St John's College and the Faculty of Modern and Medieval Languages and Linguistics (University of Cambridge)
 - 2020-2023. **CambTweet Linguistics Representative**, Linguistics and MPhil outreach Twitter account manager (University of Cambridge)
