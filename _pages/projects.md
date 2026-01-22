@@ -36,8 +36,8 @@ horizontal: false
 
 <details>
   <summary class="project-title">Induction of morphophonological alternations in Artificial Language Learning</summary>
-  <h4>You can add a header</h4>
-  <p>You can add text within a collapsed section.</p>
+  <p><i>With Bert Vaux</i></p> 
+  <p>Using artificial languages, we designed an initial experiment to probe an under-explored (potential) bias – a scope expansion bias favoring generalization of rules to as many segments as possible in their structural environment, independently of the complexity of the resulting rule. Our results argued against conservative learners and in favor of simplicity-driven biases, such as the Tolerance Principle. </p>
 </details>
   
 </div>
