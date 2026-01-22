@@ -47,7 +47,7 @@ horizontal: false
 <details>
   <summary class="project-title">Mathematically and cognitively-inspired approaches to syntactic development</summary>
   <p>I dabbled in dynamical systems theory and category theory during my BA and MPhil. I explored how mathematical frameworks such as dynamical systems theory and category theory can contribute more cognitively grounded models of syntactic development. As a proof of concept, I proposed a synthesis between neo-emergentist generative approaches and the category-theoretic model of Evolutive Systems (Ehresmann & Vanbremeersch). </p>
-  <p>📝 MPhil thesis (<a href="[https://openpublishing.library.umass.edu/amphonology/article/id/3037/](https://ling.auf.net/lingbuzz/007418)">thesis</a>); BA thesis (<a href="https://www.mmll.cam.ac.uk/files/copil_14a_1_bosch.pdf">paper</a>).</p>
+  <p>📝 MPhil thesis (<a href="https://ling.auf.net/lingbuzz/007418">thesis</a>); BA thesis (<a href="https://www.mmll.cam.ac.uk/files/copil_14a_1_bosch.pdf">paper</a>).</p>
 </details>
   
 </div>
