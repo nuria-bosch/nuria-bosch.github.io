@@ -31,7 +31,7 @@ horizontal: false
 
 <details>
   <summary class="project-title">Expressive negation in Catalan proper nouns</summary>
-  <p>I report a restricted set of proper nouns in Catalan and Spanish that can receive interpretations that resemble negative indefinites. Specifically, I use a large-scale grammaticality judgement survey to show one such proper noun (Rita) is at an advanced stage of grammaticalisation in a subset of speakers, behaving partly like Negative Concord Items. </p>
+  <p>I report a restricted set of proper nouns in Catalan and Spanish that can receive interpretations that resemble negative indefinites. Specifically, I use a large-scale grammaticality judgement survey to show one such proper noun (Rita) is at an advanced stage of grammaticalisation in a subset of speakers, partly behaving like Negative Concord Items in its syntactic distribution. </p>
 </details>
 
 <details>
