@@ -12,7 +12,7 @@ horizontal: false
 <!-- pages/projects.md -->
 <div class="projects">
 <details>
-  <summary class="project-title">Project 1</summary>
+  <summary class="project-title">My PhD project</summary>
   <h4>You can add a header</h4>
   <p>You can add text within a collapsed section.</p>
 </details>
