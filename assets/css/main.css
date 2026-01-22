@@ -938,6 +938,10 @@ nav[data-toggle=toc] .nav-link.active:hover {
   white-space: nowrap; /* prevent wrapping */
 }
 
+.preview {
+  display: none !important;
+}
+
 /*******************************************************************************
  * Style overrides for distill blog posts.
  ******************************************************************************/
