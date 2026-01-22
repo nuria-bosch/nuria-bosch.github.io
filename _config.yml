@@ -7,7 +7,7 @@ first_name: Núria
 last_name: Bosch
 email: nb611@cam.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal academic website for Núria Bosch.
+  Academic website for Núria Bosch.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -267,8 +267,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags wil
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Bosch]
+  first_name: [Núria]
 
   style: apa
   locale: en
