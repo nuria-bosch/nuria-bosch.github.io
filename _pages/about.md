@@ -31,7 +31,7 @@ When not doing linguistics, I can be found reading, listening to music, coding, 
  <h2>I work on...</h2>
 
 - **Syntax** (theoretical, comparative, diachronic)
-- **Language acquisition**
+- **Language acquisition** (L1, bilingualism)
 - **Interdisciplinary** approaches to language
 
 I'm interested in how children build up grammatical systems and how this process sheds light on synchronic and diachronic variation. I pursue this theme through corpus methods and multilingual data analysis to evaluate theoretical approaches to grammar construction. In particular, my work develops a **neo-emergentist generative** approach to language acquisition and variation, which assumes a maximally impoverished Universal Grammar. I have a keen interest in comparative, multilingual and formal perspectives on syntactic acquisition.
