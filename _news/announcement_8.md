@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will presenting a poster at [GLOW 48 (Siena)](https://www.congressi.unisi.it/glow48/) on "Acquiring the Features of Negative Indefinites: A comparison of Catalan, Spanish and Italian with West Germanic".
+I will present a poster at [GLOW 48 (Siena)](https://www.congressi.unisi.it/glow48/) on "Acquiring the Features of Negative Indefinites: A comparison of Catalan, Spanish and Italian with West Germanic".
