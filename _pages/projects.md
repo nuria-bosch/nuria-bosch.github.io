@@ -12,7 +12,7 @@ horizontal: false
 <div class="projects">
 <details>
   <summary class="project-title">My PhD project</summary>
-  <p>My PhD explores the explanatory potential of a previously understudied formal notion in language acquisition: categorial granularity, with particular focus on the left periphery.</p> 
+  <p>My PhD explores the explanatory potential of a previously understudied formal notion in language acquisition: <b>categorial granularity</b>, with particular focus on the left periphery.</p> 
 
 <p>I argue that children acquire a CP domain early, but that functional domains become progressively granularised during development. On this view, the acquisition of a richly articulated CP in the Rizzian cartographic tradition is a later development. Drawing on crosslinguistic empirical data, I argue that this developmental trajectory supports a growing theoretical literature proposing cross-linguistically variable (emergent) elaboration of functional domains.</p>
 
