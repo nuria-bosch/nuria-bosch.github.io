@@ -24,7 +24,7 @@ I spent Fall 2025 as a visiting student at the Department of Linguistics at [New
 
 From April-July 2025, I was a short-term Doctoral Research Fellow at the DFG-funded [NegLaB Collaborative Research Centre](https://www.neglab.de) (Goethe-Universität Frankfurt), where I worked with [Esther Rinke](https://www.neglab.de/prof-dr-esther-rinke/) and [Petra Schulz](https://www.neglab.de/prof-dr-petra-schulz/).
 
-Before my PhD, I completed a BA and MPhil in Linguistics also at the University of Cambridge (St John's College), supervised by Theresa Biberauer. You can find my **full CV [here](https://nuria-bosch.github.io/assets/pdf/Bosch_cv_January_2026.pdf)**.
+Before my PhD, I completed a BA and MPhil in Linguistics also at the University of Cambridge (St John's College), supervised by Theresa Biberauer. You can find my **full CV [here](https://nuria-bosch.github.io/assets/pdf/Bosch_cv_April_2026.pdf)**.
 
 When not doing linguistics, I can be found reading, listening to music, coding, travelling and following Barcelona's football games (or, more rarely, playing football). I'm originally from Ripoll, a small town in the north of Catalonia, next to the Pyrenees and near the French border.
 
