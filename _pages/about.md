@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! I'm Núria Bosch [ˈnuɾiə βɔsk], a **third-year PhD student** in Linguistics at the University of Cambridge (St John's College). I specialise in syntax and first language acquisition.
 
-I'm supervised by [Bert Vaux](https://www.mmll.cam.ac.uk/people/bert-vaux) and [Theresa Biberauer](https://www.chu.cam.ac.uk/fellows/dr-theresa-biberauer/) and I'm supported by an OOC AHRC DTP - St John's studentship. I'm also an Honorary Cambridge Trust Scholar. My PhD project is outlined on the [AHRC website](https://www.oocdtp.ac.uk/people/nuria-bosch). 
+I'm supervised by [Bert Vaux](https://www.mmll.cam.ac.uk/people/bert-vaux) and [Theresa Biberauer](https://www.chu.cam.ac.uk/fellows/dr-theresa-biberauer/) and I'm supported by an Open-Oxford-Cambridge AHRC DTP - St John's studentship. I'm also an Honorary Cambridge Trust Scholar. My PhD project is outlined on the [AHRC website](https://www.oocdtp.ac.uk/people/nuria-bosch). 
 
 I spent Fall 2025 as a visiting student at the Department of Linguistics at [New York University](https://as.nyu.edu/departments/linguistics.html), sponsored by [Ailís Cournane](https://wp.nyu.edu/cournane/) and [Gary Thoms](https://sites.google.com/site/garythoms/). 
 
