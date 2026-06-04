@@ -40,7 +40,9 @@ _Examining (University of Cambridge)_
 
 _Edited volumes_
 
-- Ema Banerjee, Núria Bosch, Steph Cooper & Nina Haket (Eds.). (2024). _Cambridge Occasional Papers in Linguistics_, 16 [[link](https://www.mmll.cam.ac.uk/node/9212/volume-16)].
+- In prep. Núria Bosch, Steph Cooper, Grete Feldman, Mu Li & Yutong Wang (Eds.), Cambridge Occasional Papers in Linguistics, 18.
+- 2025 Núria Bosch, Steph Cooper, Yiyang Guo, Nina Haket & Yutong Wang (Eds.), _Cambridge Occasional Papers in Linguistics_, 17.
+- 2026 Ema Banerjee, Núria Bosch, Steph Cooper & Nina Haket (Eds.), _Cambridge Occasional Papers in Linguistics_, 16.
 
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Undergraduate Admissions</h4>
 
@@ -57,6 +59,7 @@ _Edited volumes_
 
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Committee roles</h4>
 
+- 2025-Present. **Co-Chair** of the Cambridge University Linguistics Society (CU LingSoc)
 - 2025-Present. **Social Media Coordinator** at the Cambridge University Catalan Society (CUCAT)
 - 2023-Present. **Secretary** at the Cambridge University Linguistics Society (CU LingSoc)
 - 2024-2025. **Vice-President** at the Cambridge University Catalan Society (CUCAT)
@@ -71,6 +74,7 @@ _Edited volumes_
 
 <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Workshops and panels</h4>
 
+- Jan and Jun 2026. **Lead instructor** of _Building your own academic website workshop at Department of Theoretical and Applied Linguistics_ (Cambridge).
 - Aug 2023. **Speaker** at _JoULAB panel_ on undergraduate publishing and reviewing at the the 2023 LAGB Summer School 
 - Mar 2023. **Lead organiser** for _Careers for Linguists Panel_, with St John’s Linguistics Society and Cambridge Linguistic Society
 - Feb 2022. **Lead organiser and teacher** for _LaTeX for Linguists Workshop_, with St John's Linguistics Society and CamTeX Society

@@ -11,7 +11,7 @@ nav_order: 1
 <!-- _pages/publications.md -->
 
 <p> 
-All my research outputs divided into 
+All my publications divided into 
 </p>
 
 
