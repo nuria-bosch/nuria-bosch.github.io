@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper to appear in Language Acquisition: 'Early or Late CP Acquisition? Evidence from topics and other CP diagnostics in Germanic–Romance bilinguals'.
+Paper published in Language Acquisition: 'Early or Late CP Acquisition? Evidence from topics and other CP diagnostics in Germanic–Romance bilinguals'.
