@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching_and_service/
-title: teaching and service 👩‍🏫
+permalink: /teaching/
+title: teaching 👩‍🏫
 description: 
 nav: true
 nav_order: 5
@@ -11,9 +11,15 @@ nav_order: 5
 
 _Supervisions - Small Group Teaching (University of Cambridge)_
 
+- 2026-2027. _Li9 (Advanced) Syntax_, Part IIA/B Linguistics Tripos.
+- 2026-2027. _Li15 First and Second Language Acquisition_, Part IIA/B Linguistics Tripos.
 - 2024-2025. _Li2 Structures and Meanings_, Part I Linguistics Tripos
 - 2024-2025. _Li8 Morphology_, Part IIB Linguistics Tripos
 - 2024-2025. _Li11 Historical Linguistics_, Part IIA/B Linguistics Tripos.
+
+_Widening Participation Programmes_
+
+- September 2026. _Bridging Course for Linguistics_, Corpus Christi and Robinson Colleges. 
 
 _Guest lectures_
 
@@ -21,7 +27,14 @@ _Guest lectures_
 linguistic perspective_ (MA course, Goethe-Universität Frankfurt).
 - May 2024. _Syntax_ (Module 1, Session 4) of the MSt in English Language Assessment (Institute of Continuing Education, University of Cambridge)
 
-_Examining (University of Cambridge)_
+_Workshops and panels_
+
+- Jan and Jun 2026. **Lead instructor** of _Building your own academic website workshop at Department of Theoretical and Applied Linguistics_ (Cambridge).
+- Aug 2023. **Speaker** at _JoULAB panel_ on undergraduate publishing and reviewing at the the 2023 LAGB Summer School 
+- Mar 2023. **Lead organiser** for _Careers for Linguists Panel_, with St John’s Linguistics Society and Cambridge Linguistic Society
+- Feb 2022. **Lead organiser and teacher** for _LaTeX for Linguists Workshop_, with St John's Linguistics Society and CamTeX Society
+
+<!-- _Examining (University of Cambridge)_
 
 - June 2025. _Li8 Morphology_, Part IIB Linguistics Tripos.
 
@@ -84,5 +97,6 @@ _Edited volumes_
 - Sept 2021. **Student helper** for LAGB Annual Meeting 2021
 - Sept 2020 and Jan 2021. **Student helper and webmaster** for Cambridge Comparative Syntax (CamCoS) 9 Parts I and II
 
+-->
 
 
