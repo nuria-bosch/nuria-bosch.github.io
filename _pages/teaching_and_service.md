@@ -7,8 +7,6 @@ nav: true
 nav_order: 5
 ---
 
-<h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Teaching and Examining</h4>
-
 _Supervisions - Small Group Teaching (University of Cambridge)_
 
 - 2026-2027. _Li9 (Advanced) Syntax_, Part IIA/B Linguistics Tripos.
