@@ -5,7 +5,7 @@ title: publications 📝
 description: Feel free to email me for any PDFs, comments are also very welcome!
 years:
 nav: true
-nav_order: 1
+nav_order: 3
 ---
 
 <!-- _pages/publications.md -->
