@@ -32,11 +32,11 @@ _Workshops and panels_
 - Mar 2023. **Lead organiser** for _Careers for Linguists Panel_, with St John’s Linguistics Society and Cambridge Linguistic Society
 - Feb 2022. **Lead organiser and teacher** for _LaTeX for Linguists Workshop_, with St John's Linguistics Society and CamTeX Society
 
-<!-- _Examining (University of Cambridge)_
+_Examining (University of Cambridge)_
 
 - June 2025. _Li8 Morphology_, Part IIB Linguistics Tripos.
 
-<h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Reviewing</h4>
+<!-- <h4 style="margin-top: 3.3rem; margin-bottom: 2rem; font-weight: bold;">Reviewing</h4>
 
 - **Abstracts**. Annual Conference of the Undergraduate Linguistics Association of Britain (2023, 2024)
 - **Papers**. Linguistik Aktuell (2026), Proceedings of ConSOLE32 (2024), Journal of the Undergraduate Linguistics Association of Britain (2024)
