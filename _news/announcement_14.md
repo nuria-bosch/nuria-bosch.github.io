@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper to appear in Linguistic Variation: 'Acquiring the Features of Negative Indefinites: A comparison of Catalan, Spanish and Italian with West Germanic'.
+Paper published in [Linguistic Variation](https://doi.org/10.1075/lv.26010.bos): 'Acquiring the Features of Negative Indefinites: A comparison of Catalan, Spanish and Italian with West Germanic'.
